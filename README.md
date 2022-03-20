@@ -5,3 +5,17 @@ Farm Factory 입니다.
 
 # 개발 보드
 https://allo.io/g/945655
+
+
+# FrontEnd
+https://github.com/kitFF2022/FarmFactoryFrontEnd
+
+# BackEnd
+추가예정
+
+# OculusApp
+추가예정
+
+# MobileApp
+### IOS 추가예정
+### Android 추가예정

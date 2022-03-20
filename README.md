@@ -3,7 +3,7 @@
 
 Farm Factory 입니다.
 
-# 개발 보드
+# 개발 간판
 https://allo.io/g/945655
 
 

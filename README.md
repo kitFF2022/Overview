@@ -17,5 +17,5 @@ https://github.com/kitFF2022/FarmFactoryFrontEnd
 추가예정
 
 # MobileApp
-### IOS 추가예정
-### Android 추가예정
+IOS 추가예정
+Android 추가예정

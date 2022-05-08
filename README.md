@@ -11,7 +11,7 @@ https://allo.io/g/945655
 https://github.com/kitFF2022/FarmFactoryFrontEnd
 
 # BackEnd
-추가예정
+https://github.com/kitFF2022/BE
 
 # OculusApp
 추가예정
